@@ -1,0 +1,18 @@
+Rules/Help:
+Grid format:
+ - The grid format will be 10x10
+ - Letters (A-J) will correspond to the x-axis of the grid and numbers (1-10) will correspond to the y-axis
+ - All coordinates entered will be in the form of a letter followed by the number (e.g. B10)
+
+How to play the game:
+1. Select the amount of players (1-2)
+2. Input your ship placements
+	2a. Ship names with lengths besides them are as follows:
+	    Destroyer(2), Cruiser(3), Submarine(3), Battleship(4), Aircraft Carrier(5)
+	2b. Do this by inputing the two coordinates which will become the ends of the ship
+3. Shoot at a point on the grid
+	3a. Like before enter a coordinate that corresponds to a spot on the grid
+	3b. The program will notify you if the shot came out as a hit or a miss (and if it sinks the ship)
+4. Play again or quit
+	4a. After the game is over a message will be displayed of the winner
+	4b. You will be returned to the loadout screen

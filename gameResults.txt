@@ -1,0 +1,7364 @@
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: B1 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: B2 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: B3 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a hit
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a hit
+
+AI's turn
+AI guesses: G7
+G7 is a hit
+
+Player 1's turn
+Player 1 guesses: B7 is a hit
+
+AI's turn
+AI guesses: F7
+F7 is a hit
+
+Player 1's turn
+Player 1 guesses: B8 is a hit
+
+AI's turn
+AI guesses: E7
+E7 is a hit
+
+Player 1's turn
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: A3 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: B1 is a miss
+
+AI's turn
+AI guesses: D4
+D4 is a hit
+
+Player 1's turn
+Player 1 guesses: B2 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a hit
+
+Player 1's turn
+Player 1 guesses: B3 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a hit
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: E4
+E4 is a miss
+
+Player 1's turn
+Player 1 guesses: B7 is a hit
+
+AI's turn
+AI guesses: D3
+D3 is a hit
+
+Player 1's turn
+Player 1 guesses: B8 is a hit
+
+AI's turn
+AI guesses: D2
+D2 is a hit
+
+Player 1's turn
+Player 1 guesses: B9 is a hit
+
+AI's turn
+AI guesses: D1
+D1 is a hit
+
+Player 1's turn
+Player 1 guesses: B10 is a miss
+
+AI's turn
+AI guesses: H5
+H5 is a miss
+
+Player 1's turn
+Player 1 guesses: C1 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: C4 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 is a miss
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 has already been shot
+C8 is a miss
+
+AI's turn
+AI guesses: H2
+H2 is a miss
+
+Player 1's turn
+Player 1 guesses: D1 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a miss
+
+Player 1's turn
+Player 1 guesses: D3 is a miss
+
+AI's turn
+AI guesses: D10
+D10 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 is a hit
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: E2 is a hit
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: E3 is a hit
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: C9
+C9 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: J3
+J3 is a hit
+
+Player 1's turn
+Player 1 guesses: I2 is a hit
+
+AI's turn
+AI guesses: J2
+J2 is a hit
+
+Player 1's turn
+Player 1 guesses: I3 is a hit
+
+AI's turn
+AI guesses: J1
+J1 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 is a hit
+
+AI's turn
+AI guesses: I3
+I3 is a miss
+
+Player 1's turn
+Player 1 guesses: I5 is a hit
+
+AI's turn
+AI guesses: J4
+J4 is a hit
+
+Player 1's turn
+Player 1 guesses: I6 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a hit
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: I8 is a miss
+
+AI's turn
+AI guesses: I7
+I7 is a miss
+
+Player 1's turn
+Player 1 guesses: I9 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a miss
+
+Player 1's turn
+Player 1 guesses: I10 is a miss
+
+AI's turn
+AI guesses: F4
+F4 is a miss
+
+Player 1's turn
+Player 1 guesses: J1 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: J3 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a miss
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: J8 is a miss
+
+AI's turn
+AI guesses: B10
+B10 is a miss
+
+Player 1's turn
+Player 1 guesses: J9 is a miss
+
+AI's turn
+AI guesses: H10
+H10 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 is a miss
+
+AI's turn
+AI guesses: G1
+G1 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a hit
+
+Player 1's turn
+Player 1 guesses: G2 is a miss
+
+AI's turn
+AI guesses: G0
+G0 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a hit
+
+Player 1's turn
+Player 1 guesses: G4 is a miss
+
+AI's turn
+AI guesses: I1
+I1 is a hit
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: G6 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a miss
+
+Player 1's turn
+Player 1 guesses: G8 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a miss
+
+Player 1's turn
+Player 1 guesses: A4 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a miss
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: A7
+A7 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: C5
+C5 is a hit
+
+Player 1's turn
+Player 1 guesses: A8 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: A8 has already been shot
+A9 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a hit
+
+Player 1's turn
+Player 1 guesses: A10 is a miss
+
+AI's turn
+AI guesses: H6
+H6 is a miss
+
+Player 1's turn
+Player 1 guesses: C4 has already been shot
+B4 has already been shot
+B5 has already been shot
+B6 has already been shot
+B7 has already been shot
+B8 has already been shot
+D5 is a miss
+
+AI's turn
+AI guesses: A9
+A9 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 is a miss
+
+AI's turn
+AI guesses: A1
+A1 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 is a miss
+
+AI's turn
+AI guesses: J10
+J10 is a miss
+
+Player 1's turn
+Player 1 guesses: D8 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+Player 1 guesses: D10 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 has already been shot
+E5 is a hit
+
+AI's turn
+AI guesses: G9
+G9 is a miss
+
+Player 1's turn
+Player 1 guesses: E6 is a hit
+
+AI's turn
+AI guesses: I10
+I10 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a hit
+
+AI's turn
+AI guesses: J9
+J9 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a hit
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 has already been shot
+E9 is a hit
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: E10 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 is a miss
+
+AI's turn
+AI guesses: B1
+B1 is a miss
+
+Player 1's turn
+Player 1 guesses: F2 is a hit
+
+AI's turn
+AI guesses: E3
+E3 is a miss
+
+Player 1's turn
+Player 1 guesses: F3 is a hit
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a hit
+
+Player 1's turn
+Player 1 guesses: A3 is a hit
+
+AI's turn
+AI guesses: F4
+F4 is a miss
+
+Player 1's turn
+Player 1 guesses: B1 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: B2 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a hit
+
+Player 1's turn
+Player 1 guesses: B3 is a hit
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a hit
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a hit
+
+AI's turn
+AI guesses: H7
+H7 is a hit
+
+Player 1's turn
+Player 1 guesses: B7 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a hit
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a hit
+
+Player 1's turn
+Player 1 guesses: B9 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a hit
+
+Player 1's turn
+Player 1 guesses: A3 is a miss
+
+AI's turn
+AI guesses: F4
+F4 is a hit
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a hit
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a hit
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: A8 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a hit
+
+Player 1's turn
+Player 1 guesses: A9 has already been shot
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a hit
+
+AI's turn
+AI guesses: G9
+G9 is a hit
+
+AI's turn
+AI guesses: H9
+H9 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+AI's turn
+AI guesses: F10
+F10 is a hit
+
+AI's turn
+AI guesses: F10
+F10 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a miss
+
+AI's turn
+
+AI's turn
+AI guesses: F6
+F6 is a hit
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a hit
+
+AI's turn
+AI guesses: H6
+H6 is a miss
+
+AI's turn
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a hit
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a hit
+
+AI's turn
+AI guesses: G9
+G9 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a hit
+
+AI's turn
+AI guesses: G5
+G5 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a hit
+
+AI's turn
+AI guesses: I7
+I7 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+AI's turn
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: A3 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: A4 is a hit
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a hit
+
+Player 1's turn
+Player 1 guesses: A8 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a hit
+
+Player 1's turn
+Player 1 guesses: A9 is a miss
+
+AI's turn
+AI guesses: C2
+C2 is a hit
+
+Player 1's turn
+Player 1 guesses: A9 has already been shot
+B1 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: B2 is a miss
+
+AI's turn
+AI guesses: D4
+D4 is a miss
+
+Player 1's turn
+Player 1 guesses: B3 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a hit
+
+AI's turn
+AI guesses: C5
+C5 is a hit
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a hit
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a hit
+
+Player 1's turn
+Player 1 guesses: B7 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: B9 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 has already been shot
+B6 has already been shot
+B8 has already been shot
+C1 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a hit
+
+Player 1's turn
+Player 1 guesses: C4 is a hit
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 is a hit
+
+AI's turn
+AI guesses: A8
+A8 is a hit
+
+Player 1's turn
+Player 1 guesses: C7 is a miss
+
+AI's turn
+AI guesses: F10
+F10 is a miss
+
+Player 1's turn
+
+Player 1's turn
+Player 1 guesses: D6 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: D5 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: G1 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: F5 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a hit
+
+Player 1's turn
+Player 1 guesses: I6 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: G4 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a hit
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a hit
+
+Player 1's turn
+Player 1 guesses: G3 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a hit
+
+Player 1's turn
+Player 1 guesses: F7 is a hit
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a hit
+
+Player 1's turn
+Player 1 guesses: J4 has already been shot
+B3 is a hit
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 is a hit
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 has already been shot
+A7 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a hit
+
+AI's turn
+AI guesses: F9
+F9 is a hit
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: F10
+F10 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a hit
+
+Player 1's turn
+Player 1 guesses: H2 is a miss
+
+AI's turn
+AI guesses: H9
+H9 is a hit
+
+Player 1's turn
+Player 1 guesses: D6 has already been shot
+C4 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a hit
+
+Player 1's turn
+Player 1 guesses: J3 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a miss
+
+Player 1's turn
+Player 1 guesses: B9 is a miss
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: A10 is a hit
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: J8 is a hit
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a hit
+
+Player 1's turn
+Player 1 guesses: B3 has already been shot
+G4 has already been shot
+I8 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: A9
+A9 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 is a miss
+
+AI's turn
+AI guesses: C9
+C9 is a hit
+
+Player 1's turn
+Player 1 guesses: E8 has already been shot
+H9 has already been shot
+D10 is a hit
+
+AI's turn
+AI guesses: D9
+D9 is a hit
+
+Player 1's turn
+Player 1 guesses: H10 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 has already been shot
+C4 has already been shot
+E10 is a miss
+
+AI's turn
+AI guesses: B1
+B1 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 has already been shot
+I6 has already been shot
+J10 is a miss
+
+AI's turn
+AI guesses: A2
+A2 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 has already been shot
+G3 has already been shot
+E5 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 has already been shot
+H4 has already been shot
+E2 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a miss
+
+Player 1's turn
+Player 1 guesses: B7 is a hit
+
+AI's turn
+AI guesses: H5
+H5 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 has already been shot
+D10 has already been shot
+C9 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: C1 is a miss
+
+AI's turn
+AI guesses: J3
+J3 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 has already been shot
+H10 has already been shot
+I1 has already been shot
+I7 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a hit
+
+Player 1's turn
+Player 1 guesses: G8 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: C1 has already been shot
+E1 is a miss
+
+AI's turn
+AI guesses: J4
+J4 is a hit
+
+Player 1's turn
+Player 1 guesses: H8 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a hit
+
+Player 1's turn
+Player 1 guesses: E6 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a hit
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 has already been shot
+H4 has already been shot
+E6 has already been shot
+A4 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a hit
+
+Player 1's turn
+Player 1 guesses: H7 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: C4 has already been shot
+J6 is a miss
+
+AI's turn
+AI guesses: H6
+H6 is a miss
+
+Player 1's turn
+Player 1 guesses: H4 has already been shot
+F5 has already been shot
+B1 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: I10 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a hit
+
+Player 1's turn
+Player 1 guesses: E6 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a hit
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: F4
+F4 is a hit
+
+Player 1's turn
+Player 1 guesses: B1 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a hit
+
+Player 1's turn
+Player 1 guesses: G6 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a hit
+
+Player 1's turn
+Player 1 guesses: J8 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: H5 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a miss
+
+Player 1's turn
+Player 1 guesses: B9 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a hit
+
+Player 1's turn
+Player 1 guesses: H7 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a hit
+
+Player 1's turn
+Player 1 guesses: I3 is a miss
+
+AI's turn
+AI guesses: H6
+H6 is a hit
+
+Player 1's turn
+Player 1 guesses: J4 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a hit
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 has already been shot
+H4 is a hit
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a hit
+
+Player 1's turn
+Player 1 guesses: E9 has already been shot
+I6 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a hit
+
+Player 1's turn
+Player 1 guesses: A4 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a hit
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: C2
+C2 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a hit
+
+Player 1's turn
+Player 1 guesses: H7 has already been shot
+J2 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a hit
+
+Player 1's turn
+Player 1 guesses: G7 is a hit
+
+AI's turn
+AI guesses: E10
+E10 is a miss
+
+Player 1's turn
+Player 1 guesses: F7 is a hit
+
+AI's turn
+AI guesses: G1
+G1 is a miss
+
+Player 1's turn
+Player 1 guesses: F5 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 is a hit
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: B2 is a hit
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: F2 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: H10
+H10 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 has already been shot
+I5 is a miss
+
+AI's turn
+AI guesses: D1
+D1 is a miss
+
+Player 1's turn
+Player 1 guesses: I2 is a miss
+
+AI's turn
+AI guesses: J2
+J2 is a miss
+
+Player 1's turn
+Player 1 guesses: I10 is a miss
+
+AI's turn
+AI guesses: J9
+J9 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 is a hit
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 is a hit
+
+AI's turn
+AI guesses: G8
+G8 is a hit
+
+Player 1's turn
+Player 1 guesses: G4 is a hit
+
+AI's turn
+AI guesses: G9
+G9 is a hit
+
+Player 1's turn
+Player 1 guesses: J3 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: C10 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: F9 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a hit
+
+Player 1's turn
+Player 1 guesses: I8 is a hit
+
+AI's turn
+AI guesses: D8
+D8 is a miss
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a hit
+
+Player 1's turn
+Player 1 guesses: G7 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a hit
+
+AI's turn
+AI guesses: C7
+C7 is a hit
+
+Player 1's turn
+Player 1 guesses: E9 has already been shot
+H5 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+Player 1's turn
+Player 1 guesses: B7 is a miss
+
+AI's turn
+AI guesses: H5
+H5 is a miss
+
+Player 1's turn
+Player 1 guesses: H1 is a hit
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: A10 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 has already been shot
+G7 has already been shot
+C4 is a hit
+
+AI's turn
+AI guesses: F1
+F1 is a hit
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a miss
+
+Player 1's turn
+Player 1 guesses: I10 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a hit
+
+Player 1's turn
+Player 1 guesses: F10 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a hit
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: C2
+C2 is a hit
+
+Player 1's turn
+Player 1 guesses: C9 is a miss
+
+AI's turn
+AI guesses: I3
+I3 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 is a miss
+
+AI's turn
+AI guesses: H9
+H9 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 has already been shot
+F8 is a miss
+
+AI's turn
+AI guesses: I7
+I7 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a hit
+
+Player 1's turn
+Player 1 guesses: F1 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a hit
+
+Player 1's turn
+Player 1 guesses: F10 has already been shot
+C4 has already been shot
+C1 is a miss
+
+AI's turn
+AI guesses: J4
+J4 is a hit
+
+Player 1's turn
+Player 1 guesses: I4 has already been shot
+J8 is a hit
+
+AI's turn
+AI guesses: J3
+J3 is a hit
+
+Player 1's turn
+Player 1 guesses: B1 is a miss
+
+AI's turn
+AI guesses: J2
+J2 is a hit
+
+Player 1's turn
+Player 1 guesses: B2 is a miss
+
+AI's turn
+AI guesses: J1
+J1 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: J7
+J7 is a hit
+
+Player 1's turn
+Player 1 guesses: A10 has already been shot
+E4 has already been shot
+D9 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 is a miss
+
+AI's turn
+AI guesses: E10
+E10 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: C9
+C9 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a miss
+
+Player 1's turn
+Player 1 guesses: J1 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 is a miss
+
+AI's turn
+AI guesses: I10
+I10 is a miss
+
+Player 1's turn
+Player 1 guesses: A8 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a miss
+
+Player 1's turn
+Player 1 guesses: C9 has already been shot
+D2 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: I10 has already been shot
+H4 is a miss
+
+AI's turn
+AI guesses: B10
+B10 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: A2
+A2 is a miss
+
+Player 1's turn
+Player 1 guesses: I3 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: G6 is a hit
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: F4
+F4 is a miss
+
+Player 1's turn
+Player 1 guesses: J3 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: E10 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: I2 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 has already been shot
+B10 has already been shot
+H2 is a hit
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: I9 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: I3 has already been shot
+D8 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 has already been shot
+E7 is a miss
+
+AI's turn
+AI guesses: A9
+A9 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 has already been shot
+F9 has already been shot
+H1 has already been shot
+I2 has already been shot
+D4 is a hit
+
+AI's turn
+AI guesses: A7
+A7 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: H7 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a hit
+
+Player 1's turn
+Player 1 guesses: E3 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: D1 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 has already been shot
+C3 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 is a miss
+
+AI's turn
+AI guesses: D9
+D9 is a miss
+
+Player 1's turn
+Player 1 guesses: B5 is a hit
+
+AI's turn
+AI guesses: B1
+B1 is a miss
+
+Player 1's turn
+Player 1 guesses: C4 has already been shot
+A5 has already been shot
+B10 has already been shot
+H5 has already been shot
+I2 has already been shot
+B10 has already been shot
+I2 has already been shot
+D8 has already been shot
+D2 has already been shot
+H4 has already been shot
+I9 has already been shot
+F6 is a hit
+
+AI's turn
+AI guesses: G5
+G5 is a miss
+
+Player 1's turn
+Player 1 guesses: H6 is a miss
+
+AI's turn
+AI guesses: J10
+J10 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+F5 is a miss
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: F8 has already been shot
+I2 has already been shot
+D4 has already been shot
+H7 has already been shot
+G2 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: A4
+A4 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 has already been shot
+C4 has already been shot
+G8 is a hit
+
+AI's turn
+AI guesses: E4
+E4 is a miss
+
+Player 1's turn
+Player 1 guesses: D5 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: E1
+E1 is a hit
+
+Player 1's turn
+Player 1 guesses: F2 is a miss
+
+AI's turn
+AI guesses: D1
+D1 is a hit
+
+Player 1's turn
+Player 1 guesses: H5 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: E2 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 is a hit
+
+AI's turn
+AI guesses: D4
+D4 is a miss
+
+Player 1's turn
+Player 1 guesses: E3 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a hit
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a hit
+
+Player 1's turn
+Player 1 guesses: J9 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a hit
+
+Player 1's turn
+Player 1 guesses: F1 is a hit
+
+AI's turn
+AI guesses: D5
+D5 is a hit
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a hit
+
+Player 1's turn
+Player 1 guesses: H6 is a hit
+
+AI's turn
+AI guesses: H5
+H5 is a miss
+
+Player 1's turn
+Player 1 guesses: B7 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a hit
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: I5 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a miss
+
+Player 1's turn
+Player 1 guesses: F4 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a miss
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: G8 is a hit
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: E10
+E10 is a miss
+
+Player 1's turn
+Player 1 guesses: E6 is a miss
+
+AI's turn
+AI guesses: C9
+C9 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a hit
+
+Player 1's turn
+Player 1 guesses: F6 is a miss
+
+AI's turn
+AI guesses: E1
+E1 is a hit
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: D1
+D1 is a hit
+
+Player 1's turn
+Player 1 guesses: F2 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a hit
+
+Player 1's turn
+Player 1 guesses: I5 has already been shot
+G4 is a miss
+
+AI's turn
+AI guesses: B1
+B1 is a hit
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+J1 is a hit
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+D10 is a miss
+
+AI's turn
+AI guesses: J7
+J7 is a miss
+
+Player 1's turn
+Player 1 guesses: D10 has already been shot
+C8 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 is a hit
+
+AI's turn
+AI guesses: B8
+B8 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 has already been shot
+B5 is a hit
+
+AI's turn
+AI guesses: J4
+J4 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a hit
+
+Player 1's turn
+Player 1 guesses: E8 is a miss
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 is a miss
+
+AI's turn
+AI guesses: I10
+I10 is a hit
+
+Player 1's turn
+Player 1 guesses: I2 is a miss
+
+AI's turn
+AI guesses: H9
+H9 is a hit
+
+Player 1's turn
+Player 1 guesses: D5 is a hit
+
+AI's turn
+AI guesses: G9
+G9 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 has already been shot
+I8 is a hit
+
+AI's turn
+AI guesses: J9
+J9 is a hit
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+F5 is a miss
+
+AI's turn
+AI guesses: A2
+A2 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 has already been shot
+E10 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: I5 has already been shot
+F2 has already been shot
+A8 is a miss
+
+AI's turn
+AI guesses: A10
+A10 is a miss
+
+Player 1's turn
+Player 1 guesses: J9 has already been shot
+I1 is a hit
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: C8 has already been shot
+E6 has already been shot
+F2 has already been shot
+F6 has already been shot
+J2 has already been shot
+D10 has already been shot
+A6 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 has already been shot
+F5 has already been shot
+C4 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a miss
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: E4
+E4 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 is a miss
+
+AI's turn
+AI guesses: I3
+I3 is a miss
+
+Player 1's turn
+Player 1 guesses: A3 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: D3 is a hit
+
+AI's turn
+AI guesses: A9
+A9 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 has already been shot
+G9 has already been shot
+J10 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+Player 1 guesses: F9 is a miss
+
+AI's turn
+AI guesses: C5
+C5 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+I4 has already been shot
+D2 has already been shot
+J10 has already been shot
+H9 has already been shot
+F7 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a miss
+
+Player 1's turn
+Player 1 guesses: D5 has already been shot
+J2 has already been shot
+J2 has already been shot
+F10 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: J2
+J2 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 has already been shot
+G5 has already been shot
+H2 has already been shot
+I7 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: A7
+A7 is a miss
+
+Player 1's turn
+Player 1 guesses: G7 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 has already been shot
+H6 has already been shot
+H8 is a hit
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: G7 has already been shot
+D6 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 has already been shot
+I3 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a miss
+
+Player 1's turn
+Player 1 guesses: H6 has already been shot
+H8 has already been shot
+D8 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: G6 is a hit
+
+AI's turn
+AI guesses: B10
+B10 is a miss
+
+Player 1's turn
+Player 1 guesses: A6 has already been shot
+J1 has already been shot
+B5 has already been shot
+I5 has already been shot
+H3 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+Player 1's turn
+Player 1 guesses: D10 has already been shot
+E8 has already been shot
+I2 has already been shot
+I4 has already been shot
+G2 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a miss
+
+Player 1's turn
+Player 1 guesses: G7 has already been shot
+E7 is a miss
+
+AI's turn
+AI guesses: A4
+A4 is a miss
+
+Player 1's turn
+Player 1 guesses: E10 has already been shot
+J2 has already been shot
+J10 has already been shot
+F10 has already been shot
+G5 has already been shot
+G10 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: C10 is a miss
+
+AI's turn
+AI guesses: D10
+D10 is a miss
+
+Player 1's turn
+Player 1 guesses: F5 has already been shot
+I2 has already been shot
+I7 has already been shot
+B1 is a miss
+
+AI's turn
+AI guesses: J1
+J1 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 has already been shot
+D9 has already been shot
+F4 has already been shot
+J10 has already been shot
+J3 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a miss
+
+Player 1's turn
+Player 1 guesses: H8 has already been shot
+E4 has already been shot
+F8 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a miss
+
+Player 1's turn
+Player 1 guesses: D3 has already been shot
+G8 has already been shot
+I1 has already been shot
+J7 has already been shot
+G7 has already been shot
+A5 has already been shot
+F9 has already been shot
+J5 has already been shot
+E3 has already been shot
+E6 has already been shot
+D10 has already been shot
+J8 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 has already been shot
+J9 has already been shot
+B6 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 has already been shot
+I7 has already been shot
+A8 has already been shot
+D4 is a hit
+
+AI's turn
+AI guesses: J3
+J3 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+G8 has already been shot
+G3 is a miss
+
+AI's turn
+AI guesses: H10
+H10 is a hit
+
+Player 1's turn
+Player 1 guesses: H9 has already been shot
+A8 has already been shot
+A5 has already been shot
+H3 has already been shot
+F4 has already been shot
+E5 is a miss
+
+AI's turn
+
+Player 1's turn
+Player 1 guesses: I4 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: I10 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a hit
+
+Player 1's turn
+Player 1 guesses: C9 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a hit
+
+Player 1's turn
+Player 1 guesses: D8 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 is a miss
+
+AI's turn
+AI guesses: E4
+E4 is a hit
+
+Player 1's turn
+Player 1 guesses: E10 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 is a hit
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 is a hit
+
+AI's turn
+AI guesses: H6
+H6 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: J9 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: H1 is a hit
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: G1 has already been shot
+A4 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a miss
+
+AI's turn
+AI guesses: H2
+H2 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 has already been shot
+G3 is a miss
+
+AI's turn
+AI guesses: E1
+E1 is a hit
+
+Player 1's turn
+Player 1 guesses: D9 is a miss
+
+AI's turn
+AI guesses: D1
+D1 is a hit
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+A3 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a hit
+
+Player 1's turn
+Player 1 guesses: H3 is a hit
+
+AI's turn
+AI guesses: B1
+B1 is a hit
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: A4 has already been shot
+I1 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a hit
+
+Player 1's turn
+Player 1 guesses: D3 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a hit
+
+Player 1's turn
+Player 1 guesses: A4 has already been shot
+H2 is a hit
+
+AI's turn
+AI guesses: H5
+H5 is a hit
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+I8 is a miss
+
+AI's turn
+AI guesses: D10
+D10 is a miss
+
+Player 1's turn
+Player 1 guesses: H7 is a miss
+
+AI's turn
+AI guesses: H9
+H9 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 is a hit
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: J2 is a hit
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 has already been shot
+J1 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 has already been shot
+C10 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: B2 is a miss
+
+AI's turn
+AI guesses: A9
+A9 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 is a miss
+
+AI's turn
+AI guesses: A2
+A2 is a hit
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+E8 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a hit
+
+Player 1's turn
+Player 1 guesses: E8 has already been shot
+I2 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a hit
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: I10 has already been shot
+H2 has already been shot
+A7 has already been shot
+G2 has already been shot
+B10 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a hit
+
+Player 1's turn
+Player 1 guesses: J7 has already been shot
+B2 has already been shot
+H10 is a miss
+
+AI's turn
+AI guesses: D9
+D9 is a hit
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a hit
+
+Player 1's turn
+Player 1 guesses: J9 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a hit
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a hit
+
+Player 1's turn
+Player 1 guesses: E8 is a hit
+
+AI's turn
+AI guesses: G2
+G2 is a hit
+
+Player 1's turn
+Player 1 guesses: E5 is a miss
+
+AI's turn
+AI guesses: G1
+G1 is a hit
+
+Player 1's turn
+Player 1 guesses: H3 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 has already been shot
+G9 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a hit
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: I7
+I7 is a hit
+
+Player 1's turn
+Player 1 guesses: E6 is a miss
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 has already been shot
+C3 has already been shot
+F1 is a miss
+
+AI's turn
+AI guesses: J7
+J7 is a hit
+
+Player 1's turn
+Player 1 guesses: G10 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a hit
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a hit
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a hit
+
+Player 1's turn
+Player 1 guesses: I4 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: C8 is a hit
+
+AI's turn
+AI guesses: H9
+H9 is a miss
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: C8 has already been shot
+B3 is a miss
+
+AI's turn
+AI guesses: E10
+E10 is a hit
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+J1 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a hit
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: I9 is a miss
+
+AI's turn
+AI guesses: D10
+D10 is a miss
+
+Player 1's turn
+Player 1 guesses: J1 has already been shot
+G9 has already been shot
+B7 is a miss
+
+AI's turn
+AI guesses: F10
+F10 is a hit
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a hit
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: E9 has already been shot
+E7 is a hit
+
+AI's turn
+AI guesses: E2
+E2 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: J3
+J3 is a miss
+
+Player 1's turn
+Player 1 guesses: C9 is a hit
+
+AI's turn
+AI guesses: A3
+A3 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 has already been shot
+C2 is a hit
+
+AI's turn
+AI guesses: B2
+B2 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 has already been shot
+B7 has already been shot
+A4 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: F4 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: G1 is a miss
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: H3 has already been shot
+H10 is a miss
+
+AI's turn
+AI guesses: E4
+E4 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a miss
+
+Player 1's turn
+Player 1 guesses: A1 has already been shot
+J7 has already been shot
+E1 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 has already been shot
+J7 has already been shot
+H4 has already been shot
+I7 has already been shot
+B4 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 has already been shot
+J2 has already been shot
+D8 is a miss
+
+AI's turn
+AI guesses: J10
+J10 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 has already been shot
+G9 has already been shot
+E9 has already been shot
+D7 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 has already been shot
+H7 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: G4 is a miss
+
+AI's turn
+AI guesses: A10
+A10 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 has already been shot
+H10 has already been shot
+B8 has already been shot
+A8 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a hit
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a hit
+
+Player 1's turn
+Player 1 guesses: D5 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 has already been shot
+C7 is a hit
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 has already been shot
+I4 has already been shot
+F5 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 has already been shot
+J5 has already been shot
+D4 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: E6 has already been shot
+C4 is a miss
+
+AI's turn
+AI guesses: I10
+I10 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 has already been shot
+G7 is a miss
+
+AI's turn
+AI guesses: D9
+D9 is a hit
+
+Player 1's turn
+Player 1 guesses: F6 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: C9 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: J1 is a miss
+
+AI's turn
+AI guesses: D4
+D4 is a miss
+
+Player 1's turn
+Player 1 guesses: J8 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 is a hit
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: A10 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: I3 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a hit
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a hit
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a hit
+
+Player 1's turn
+Player 1 guesses: D9 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a hit
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: C2
+C2 is a hit
+
+Player 1's turn
+Player 1 guesses: E6 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a hit
+
+Player 1's turn
+Player 1 guesses: H3 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: C4 is a hit
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 has already been shot
+E7 is a hit
+
+AI's turn
+AI guesses: F10
+F10 is a miss
+
+Player 1's turn
+Player 1 guesses: A10 has already been shot
+I6 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 has already been shot
+I7 has already been shot
+B3 is a hit
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a hit
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a miss
+
+Player 1's turn
+Player 1 guesses: F5 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+Player 1's turn
+Player 1 guesses: F3 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a hit
+
+Player 1's turn
+Player 1 guesses: E6 has already been shot
+J6 is a miss
+
+AI's turn
+AI guesses: J3
+J3 is a hit
+
+Player 1's turn
+Player 1 guesses: F8 is a miss
+
+AI's turn
+AI guesses: J4
+J4 is a miss
+
+Player 1's turn
+Player 1 guesses: F6 has already been shot
+A10 has already been shot
+E6 has already been shot
+H2 has already been shot
+D2 is a miss
+
+AI's turn
+AI guesses: I3
+I3 is a hit
+
+Player 1's turn
+Player 1 guesses: D9 has already been shot
+D7 is a hit
+
+AI's turn
+AI guesses: H3
+H3 is a hit
+
+Player 1's turn
+Player 1 guesses: E3 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: C9 has already been shot
+D2 has already been shot
+H9 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a hit
+
+Player 1's turn
+Player 1 guesses: D10 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a hit
+
+Player 1's turn
+Player 1 guesses: H10 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a hit
+
+Player 1's turn
+Player 1 guesses: D8 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: F8 has already been shot
+F2 is a hit
+
+AI's turn
+AI guesses: I1
+I1 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 is a hit
+
+AI's turn
+AI guesses: G9
+G9 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 is a hit
+
+AI's turn
+AI guesses: I7
+I7 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 has already been shot
+H5 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a miss
+
+Player 1's turn
+Player 1 guesses: J5 has already been shot
+J8 has already been shot
+B8 has already been shot
+H3 has already been shot
+D1 is a miss
+
+AI's turn
+AI guesses: J10
+J10 is a miss
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: J3 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a miss
+
+Player 1's turn
+Player 1 guesses: B2 is a hit
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+Player 1 guesses: F4 is a miss
+
+AI's turn
+AI guesses: H6
+H6 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 has already been shot
+E5 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: A3 is a miss
+
+AI's turn
+AI guesses: F4
+F4 is a hit
+
+Player 1's turn
+Player 1 guesses: G7 is a miss
+
+AI's turn
+AI guesses: E4
+E4 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 has already been shot
+B6 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a hit
+
+Player 1's turn
+Player 1 guesses: E5 has already been shot
+A6 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: H10 has already been shot
+I2 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a hit
+
+Player 1's turn
+Player 1 guesses: G7 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: E10 is a hit
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a hit
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: F2 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a hit
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 is a hit
+
+AI's turn
+AI guesses: D4
+D4 is a miss
+
+Player 1's turn
+Player 1 guesses: F8 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a hit
+
+Player 1's turn
+Player 1 guesses: B3 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a hit
+
+Player 1's turn
+Player 1 guesses: D10 is a hit
+
+AI's turn
+AI guesses: A3
+A3 is a hit
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a hit
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 has already been shot
+A10 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: G8 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 has already been shot
+A10 has already been shot
+G5 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a hit
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: H2
+H2 is a miss
+
+Player 1's turn
+Player 1 guesses: J1 is a miss
+
+AI's turn
+AI guesses: I3
+I3 is a miss
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: B5 has already been shot
+E7 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a hit
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: H5
+H5 is a hit
+
+Player 1's turn
+Player 1 guesses: F9 is a miss
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: J5 has already been shot
+B6 is a miss
+
+AI's turn
+AI guesses: E10
+E10 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 has already been shot
+C7 is a miss
+
+AI's turn
+AI guesses: A7
+A7 is a hit
+
+Player 1's turn
+Player 1 guesses: F5 is a miss
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a hit
+
+Player 1's turn
+Player 1 guesses: I5 is a miss
+
+AI's turn
+AI guesses: A9
+A9 is a hit
+
+Player 1's turn
+Player 1 guesses: J4 is a miss
+
+AI's turn
+AI guesses: C5
+C5 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 has already been shot
+B2 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 has already been shot
+C5 has already been shot
+J4 has already been shot
+J4 has already been shot
+I5 has already been shot
+B3 has already been shot
+B2 has already been shot
+F1 is a miss
+
+AI's turn
+AI guesses: H10
+H10 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 is a hit
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a hit
+
+AI's turn
+AI guesses: D9
+D9 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 has already been shot
+F7 is a miss
+
+AI's turn
+AI guesses: B10
+B10 is a miss
+
+Player 1's turn
+Player 1 guesses: H6 is a miss
+
+AI's turn
+AI guesses: J2
+J2 is a miss
+
+Player 1's turn
+Player 1 guesses: A10 has already been shot
+F4 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: C10 is a hit
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: B9 is a hit
+
+AI's turn
+AI guesses: I1
+I1 is a hit
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 is a hit
+
+AI's turn
+AI guesses: J1
+J1 is a hit
+
+Player 1's turn
+Player 1 guesses: E10 has already been shot
+I8 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a hit
+
+Player 1's turn
+Player 1 guesses: J9 is a hit
+
+AI's turn
+AI guesses: G1
+G1 is a hit
+
+Player 1's turn
+Player 1 guesses: G2 has already been shot
+I4 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a miss
+
+Player 1's turn
+Player 1 guesses: C4 is a hit
+
+AI's turn
+AI guesses: B2
+B2 is a miss
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: F4 has already been shot
+C4 has already been shot
+D7 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: I2 is a miss
+
+AI's turn
+AI guesses: A4
+A4 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 has already been shot
+B6 has already been shot
+H8 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: H6 has already been shot
+E8 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: D10 has already been shot
+F4 has already been shot
+D8 is a miss
+
+AI's turn
+AI guesses: J7
+J7 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 has already been shot
+B7 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: D8 has already been shot
+J3 is a miss
+
+AI's turn
+AI guesses: A1
+A1 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 has already been shot
+F8 has already been shot
+C1 is a miss
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 has already been shot
+F10 is a hit
+
+AI's turn
+AI guesses: E1
+E1 is a miss
+
+Player 1's turn
+Player 1 guesses: A3 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a hit
+
+Player 1's turn
+Player 1 guesses: F4 has already been shot
+C4 has already been shot
+H9 has already been shot
+G5 has already been shot
+F5 has already been shot
+D3 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 has already been shot
+D7 has already been shot
+G1 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a hit
+
+Player 1's turn
+Player 1 guesses: I9 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: D4
+D4 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 is a hit
+
+AI's turn
+AI guesses: H4
+H4 is a miss
+
+Player 1's turn
+Player 1 guesses: C4 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a hit
+
+Player 1's turn
+Player 1 guesses: D7 is a miss
+
+AI's turn
+AI guesses: D9
+D9 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a hit
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a hit
+
+Player 1's turn
+Player 1 guesses: F8 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a hit
+
+Player 1's turn
+Player 1 guesses: I1 is a hit
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: J3 is a hit
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a hit
+
+Player 1's turn
+Player 1 guesses: I8 is a hit
+
+AI's turn
+AI guesses: I6
+I6 is a hit
+
+Player 1's turn
+Player 1 guesses: C6 is a hit
+
+AI's turn
+AI guesses: I7
+I7 is a hit
+
+Player 1's turn
+Player 1 guesses: B7 is a miss
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a hit
+
+Player 1's turn
+Player 1 guesses: I2 is a miss
+
+AI's turn
+AI guesses: I3
+I3 is a hit
+
+Player 1's turn
+Player 1 guesses: J10 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: E10
+E10 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: E1
+E1 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a miss
+
+Player 1's turn
+Player 1 guesses: E3 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a miss
+
+Player 1's turn
+Player 1 guesses: I2 has already been shot
+F4 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 has already been shot
+E8 has already been shot
+D4 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a hit
+
+Player 1's turn
+Player 1 guesses: D3 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a hit
+
+Player 1's turn
+Player 1 guesses: C8 is a hit
+
+AI's turn
+AI guesses: C8
+C8 is a hit
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: J9
+J9 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a miss
+
+AI's turn
+AI guesses: H10
+H10 is a miss
+
+Player 1's turn
+Player 1 guesses: E6 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 has already been shot
+A5 has already been shot
+D8 is a miss
+
+AI's turn
+AI guesses: J2
+J2 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 has already been shot
+C3 has already been shot
+D9 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: F4
+F4 is a miss
+
+Player 1's turn
+Player 1 guesses: F10 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 has already been shot
+A2 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 has already been shot
+H8 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a hit
+
+Player 1's turn
+Player 1 guesses: H6 is a miss
+
+AI's turn
+AI guesses: A2
+A2 is a hit
+
+Player 1's turn
+Player 1 guesses: D5 is a miss
+
+AI's turn
+AI guesses: A1
+A1 is a hit
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 has already been shot
+A2 has already been shot
+D2 has already been shot
+F2 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 has already been shot
+D2 has already been shot
+H7 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 has already been shot
+D1 is a miss
+
+AI's turn
+AI guesses: C5
+C5 is a miss
+
+Player 1's turn
+Player 1 guesses: B1 is a hit
+
+AI's turn
+AI guesses: H6
+H6 is a miss
+
+Player 1's turn
+Player 1 guesses: A4 is a miss
+
+AI's turn
+AI guesses: H2
+H2 is a miss
+
+Player 1's turn
+Player 1 guesses: F10 has already been shot
+G1 is a miss
+
+AI's turn
+AI guesses: J7
+J7 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a miss
+
+AI's turn
+AI guesses: I10
+I10 is a miss
+
+Player 1's turn
+Player 1 guesses: A4 has already been shot
+E10 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: E3 has already been shot
+H2 is a miss
+
+AI's turn
+AI guesses: A10
+A10 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 has already been shot
+F7 is a miss
+
+AI's turn
+AI guesses: I1
+I1 is a miss
+
+Player 1's turn
+Player 1 guesses: F8 has already been shot
+E8 has already been shot
+G6 is a miss
+
+AI's turn
+AI guesses: F10
+F10 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 has already been shot
+A1 is a miss
+
+AI's turn
+AI guesses: G1
+G1 is a hit
+
+Player 1's turn
+Player 1 guesses: E10 has already been shot
+B6 has already been shot
+C9 is a hit
+
+AI's turn
+AI guesses: G2
+G2 is a hit
+
+Player 1's turn
+Player 1 guesses: J3 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: H6 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: E5 is a hit
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: E5 has already been shot
+B4 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a miss
+
+Player 1's turn
+Player 1 guesses: D4 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a hit
+
+Player 1's turn
+Player 1 guesses: A9 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a hit
+
+Player 1's turn
+Player 1 guesses: E6 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: H6 has already been shot
+B9 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 has already been shot
+I10 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a hit
+
+Player 1's turn
+Player 1 guesses: E3 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 has already been shot
+A7 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a hit
+
+Player 1's turn
+Player 1 guesses: F10 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+C3 is a miss
+
+AI's turn
+AI guesses: E1
+E1 is a miss
+
+Player 1's turn
+Player 1 guesses: C1 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a hit
+
+Player 1's turn
+Player 1 guesses: D6 is a miss
+
+AI's turn
+AI guesses: C2
+C2 is a hit
+
+Player 1's turn
+Player 1 guesses: A7 has already been shot
+F1 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a hit
+
+Player 1's turn
+Player 1 guesses: A8 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a hit
+
+Player 1's turn
+Player 1 guesses: F4 is a hit
+
+AI's turn
+AI guesses: G3
+G3 is a hit
+
+Player 1's turn
+Player 1 guesses: F8 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 has already been shot
+H3 is a miss
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: D4 has already been shot
+A3 is a hit
+
+AI's turn
+AI guesses: J5
+J5 is a hit
+
+Player 1's turn
+Player 1 guesses: G7 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a hit
+
+AI's turn
+AI guesses: J4
+J4 is a hit
+
+Player 1's turn
+Player 1 guesses: E2 is a miss
+
+AI's turn
+AI guesses: J3
+J3 is a miss
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a hit
+
+Player 1's turn
+Player 1 guesses: J10 is a miss
+
+AI's turn
+AI guesses: J7
+J7 is a hit
+
+Player 1's turn
+Player 1 guesses: C9 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a hit
+
+Player 1's turn
+Player 1 guesses: I9 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 has already been shot
+A5 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+F2 is a hit
+
+AI's turn
+AI guesses: D10
+D10 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 has already been shot
+J5 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+G8 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a miss
+
+Player 1's turn
+Player 1 guesses: E2 has already been shot
+F1 has already been shot
+J10 has already been shot
+H2 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: C1 has already been shot
+D2 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a miss
+
+Player 1's turn
+Player 1 guesses: B5 has already been shot
+J6 has already been shot
+D7 is a miss
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: F4 has already been shot
+I7 has already been shot
+B7 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 has already been shot
+C1 has already been shot
+A6 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: H1 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: B1
+B1 is a hit
+
+Player 1's turn
+Player 1 guesses: B5 has already been shot
+F7 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a hit
+
+Player 1's turn
+Player 1 guesses: F10 has already been shot
+F3 is a miss
+
+AI's turn
+AI guesses: D1
+D1 is a hit
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a miss
+
+Player 1's turn
+Player 1 guesses: H5 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: E6 is a hit
+
+AI's turn
+AI guesses: G4
+G4 is a hit
+
+Player 1's turn
+Player 1 guesses: B1 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a miss
+
+Player 1's turn
+Player 1 guesses: I5 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a hit
+
+Player 1's turn
+Player 1 guesses: D3 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a hit
+
+Player 1's turn
+Player 1 guesses: E1 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a miss
+
+Player 1's turn
+Player 1 guesses: F10 is a hit
+
+AI's turn
+AI guesses: F4
+F4 is a hit
+
+Player 1's turn
+Player 1 guesses: A10 is a miss
+
+AI's turn
+AI guesses: E4
+E4 is a hit
+
+Player 1's turn
+Player 1 guesses: H5 has already been shot
+B5 is a miss
+
+AI's turn
+AI guesses: D4
+D4 is a hit
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a hit
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a hit
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: B7 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a hit
+
+Player 1's turn
+Player 1 guesses: C4 is a miss
+
+AI's turn
+AI guesses: C9
+C9 is a hit
+
+Player 1's turn
+Player 1 guesses: H7 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a hit
+
+Player 1's turn
+Player 1 guesses: E3 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: J9 is a hit
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 has already been shot
+E7 has already been shot
+F5 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a hit
+
+Player 1's turn
+Player 1 guesses: B4 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: G6 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a hit
+
+Player 1's turn
+Player 1 guesses: C3 has already been shot
+D2 is a hit
+
+AI's turn
+AI guesses: H9
+H9 is a hit
+
+Player 1's turn
+Player 1 guesses: C6 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: E1
+E1 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 is a miss
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: B3 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: J3
+J3 is a miss
+
+Player 1's turn
+Player 1 guesses: H3 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: J4 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: I9 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: E5 is a hit
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: D1 is a hit
+
+AI's turn
+AI guesses: J9
+J9 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a miss
+
+Player 1's turn
+Player 1 guesses: F2 is a hit
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 has already been shot
+I2 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+Player 1 guesses: E3 has already been shot
+C5 has already been shot
+F9 is a miss
+
+AI's turn
+AI guesses: D10
+D10 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a hit
+
+Player 1's turn
+Player 1 guesses: B9 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a hit
+
+Player 1's turn
+Player 1 guesses: F10 has already been shot
+I10 is a miss
+
+AI's turn
+AI guesses: I10
+I10 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 has already been shot
+I8 is a miss
+
+AI's turn
+AI guesses: C5
+C5 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a hit
+
+AI's turn
+AI guesses: H6
+H6 is a miss
+
+Player 1's turn
+Player 1 guesses: B2 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a hit
+
+AI's turn
+AI guesses: F2
+F2 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 has already been shot
+C2 has already been shot
+I9 has already been shot
+J3 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a miss
+
+Player 1's turn
+Player 1 guesses: H9 has already been shot
+I1 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a miss
+
+Player 1's turn
+Player 1 guesses: E10 is a hit
+
+AI's turn
+AI guesses: A1
+A1 is a miss
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 is a miss
+
+AI's turn
+AI guesses: A10
+A10 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: J1
+J1 is a miss
+
+Player 1's turn
+Player 1 guesses: J3 has already been shot
+H6 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: B3 has already been shot
+G7 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a hit
+
+Player 1's turn
+Player 1 guesses: A5 has already been shot
+C2 has already been shot
+I5 has already been shot
+J9 has already been shot
+D1 has already been shot
+A4 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a hit
+
+Player 1's turn
+Player 1 guesses: J9 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a hit
+
+Player 1's turn
+Player 1 guesses: F3 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: B9 is a miss
+
+AI's turn
+AI guesses: E5
+E5 is a hit
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 has already been shot
+B5 is a miss
+
+AI's turn
+AI guesses: F4
+F4 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a miss
+
+AI's turn
+AI guesses: G5
+G5 is a hit
+
+Player 1's turn
+Player 1 guesses: E10 is a miss
+
+AI's turn
+AI guesses: H5
+H5 is a hit
+
+Player 1's turn
+Player 1 guesses: F5 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a hit
+
+Player 1's turn
+Player 1 guesses: J5 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: B3 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 is a hit
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: G8 is a hit
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: F5 has already been shot
+D7 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a miss
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a hit
+
+Player 1's turn
+Player 1 guesses: D7 has already been shot
+F3 has already been shot
+F10 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a miss
+
+Player 1's turn
+Player 1 guesses: H10 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: A8 is a miss
+
+AI's turn
+AI guesses: E1
+E1 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a hit
+
+Player 1's turn
+Player 1 guesses: A10 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a hit
+
+Player 1's turn
+Player 1 guesses: G6 is a miss
+
+AI's turn
+AI guesses: H6
+H6 is a hit
+
+Player 1's turn
+Player 1 guesses: E4 is a hit
+
+AI's turn
+AI guesses: H8
+H8 is a hit
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: D9
+D9 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 is a miss
+
+AI's turn
+AI guesses: F10
+F10 is a miss
+
+Player 1's turn
+Player 1 guesses: F7 is a miss
+
+AI's turn
+AI guesses: A4
+A4 is a miss
+
+Player 1's turn
+Player 1 guesses: D5 is a miss
+
+AI's turn
+AI guesses: J4
+J4 is a hit
+
+Player 1's turn
+Player 1 guesses: E10 has already been shot
+F1 is a hit
+
+AI's turn
+AI guesses: J5
+J5 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a hit
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: C10 is a miss
+
+AI's turn
+AI guesses: J3
+J3 is a hit
+
+Player 1's turn
+Player 1 guesses: E3 is a hit
+
+AI's turn
+AI guesses: J2
+J2 is a hit
+
+Player 1's turn
+Player 1 guesses: J6 is a miss
+
+AI's turn
+AI guesses: J1
+J1 is a hit
+
+Player 1's turn
+Player 1 guesses: D8 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 has already been shot
+B5 has already been shot
+G9 has already been shot
+C7 is a hit
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 has already been shot
+E10 has already been shot
+G9 has already been shot
+C2 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: C2 has already been shot
+H10 has already been shot
+E5 is a miss
+
+AI's turn
+AI guesses: B4
+B4 is a miss
+
+Player 1's turn
+Player 1 guesses: G4 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: F6 is a miss
+
+AI's turn
+AI guesses: B1
+B1 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: J10 has already been shot
+B10 has already been shot
+G6 has already been shot
+B10 has already been shot
+E10 has already been shot
+F9 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a hit
+
+Player 1's turn
+Player 1 guesses: D7 has already been shot
+A2 is a miss
+
+AI's turn
+AI guesses: G1
+G1 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+H6 is a miss
+
+AI's turn
+AI guesses: H2
+H2 is a hit
+
+Player 1's turn
+Player 1 guesses: H6 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: F2 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: F7 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a miss
+
+Player 1's turn
+Player 1 guesses: D1 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a hit
+
+Player 1's turn
+Player 1 guesses: J8 is a miss
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a hit
+
+Player 1's turn
+Player 1 guesses: C6 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: D4
+D4 is a miss
+
+Player 1's turn
+Player 1 guesses: F10 is a miss
+
+AI's turn
+AI guesses: E3
+E3 is a hit
+
+Player 1's turn
+Player 1 guesses: E10 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a hit
+
+Player 1's turn
+Player 1 guesses: F3 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a hit
+
+Player 1's turn
+Player 1 guesses: H8 is a miss
+
+AI's turn
+AI guesses: C8
+C8 is a miss
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 is a hit
+
+AI's turn
+AI guesses: F9
+F9 is a miss
+
+Player 1's turn
+Player 1 guesses: J9 is a hit
+
+AI's turn
+AI guesses: H2
+H2 is a miss
+
+Player 1's turn
+Player 1 guesses: A5 is a miss
+
+AI's turn
+AI guesses: A5
+A5 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 has already been shot
+B4 is a miss
+
+AI's turn
+AI guesses: B6
+B6 is a miss
+
+Player 1's turn
+Player 1 guesses: H2 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a hit
+
+Player 1's turn
+Player 1 guesses: A1 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a hit
+
+Player 1's turn
+Player 1 guesses: B3 is a miss
+
+AI's turn
+AI guesses: J7
+J7 is a hit
+
+Player 1's turn
+Player 1 guesses: A6 is a miss
+
+AI's turn
+AI guesses: E10
+E10 is a miss
+
+Player 1's turn
+Player 1 guesses: E2 is a hit
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: H10 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a hit
+
+Player 1's turn
+Player 1 guesses: J7 is a miss
+
+AI's turn
+AI guesses: C9
+C9 is a miss
+
+Player 1's turn
+Player 1 guesses: J1 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a hit
+
+Player 1's turn
+Player 1 guesses: J3 is a miss
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: D4 is a miss
+
+AI's turn
+AI guesses: B10
+B10 is a hit
+
+Player 1's turn
+Player 1 guesses: B10 is a miss
+
+AI's turn
+AI guesses: I3
+I3 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 has already been shot
+A1 has already been shot
+G4 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 is a hit
+
+AI's turn
+AI guesses: C5
+C5 is a hit
+
+Player 1's turn
+Player 1 guesses: B5 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a hit
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a hit
+
+Player 1's turn
+Player 1 guesses: E9 has already been shot
+B8 is a hit
+
+AI's turn
+AI guesses: E5
+E5 is a hit
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+J7 has already been shot
+G2 is a miss
+
+AI's turn
+AI guesses: H10
+H10 is a miss
+
+Player 1's turn
+Player 1 guesses: E2 has already been shot
+I10 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: J9 has already been shot
+J5 is a hit
+
+AI's turn
+AI guesses: H5
+H5 is a miss
+
+Player 1's turn
+Player 1 guesses: D10 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 has already been shot
+B6 is a miss
+
+AI's turn
+AI guesses: A2
+A2 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 has already been shot
+G2 has already been shot
+J5 has already been shot
+G3 has already been shot
+E3 is a miss
+
+AI's turn
+AI guesses: I1
+I1 is a miss
+
+Player 1's turn
+Player 1 guesses: B8 has already been shot
+G1 is a miss
+
+AI's turn
+AI guesses: J2
+J2 is a miss
+
+Player 1's turn
+Player 1 guesses: I4 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: D2 is a hit
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: F4 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a miss
+
+Player 1's turn
+Player 1 guesses: H4 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: F1 has already been shot
+J1 has already been shot
+A8 is a hit
+
+AI's turn
+AI guesses: D9
+D9 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 has already been shot
+H7 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: E10 has already been shot
+C3 has already been shot
+D10 has already been shot
+A4 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a miss
+
+Player 1's turn
+Player 1 guesses: F10 has already been shot
+C9 is a miss
+
+AI's turn
+AI guesses: A4
+A4 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 has already been shot
+I3 is a miss
+
+AI's turn
+AI guesses: G10
+G10 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a miss
+
+AI's turn
+AI guesses: I8
+I8 is a miss
+
+Player 1's turn
+Player 1 guesses: F6 is a miss
+
+AI's turn
+AI guesses: B1
+B1 is a hit
+
+Player 1's turn
+Player 1 guesses: A7 has already been shot
+C2 is a hit
+
+AI's turn
+AI guesses: B0
+B0 is a miss
+
+Player 1's turn
+Player 1 guesses: D5 is a miss
+
+AI's turn
+AI guesses: A1
+A1 is a hit
+
+Player 1's turn
+Player 1 guesses: J8 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: F8 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: A4 is a miss
+
+AI's turn
+AI guesses: G4
+G4 is a miss
+
+Player 1's turn
+Player 1 guesses: D3 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a miss
+
+Player 1's turn
+Player 1 guesses: G3 is a miss
+
+AI's turn
+AI guesses: D3
+D3 is a hit
+
+Player 1's turn
+Player 1 guesses: F7 is a hit
+
+AI's turn
+AI guesses: E3
+E3 is a hit
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: F3
+F3 is a hit
+
+Player 1's turn
+Player 1 guesses: B4 is a miss
+
+AI's turn
+AI guesses: G3
+G3 is a hit
+
+Player 1's turn
+Player 1 guesses: E4 is a miss
+
+AI's turn
+AI guesses: H3
+H3 is a hit
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: I3
+I3 is a hit
+
+Player 1's turn
+Player 1 guesses: G6 is a miss
+
+AI's turn
+AI guesses: C4
+C4 is a miss
+
+Player 1's turn
+Player 1 guesses: F4 is a miss
+
+AI's turn
+AI guesses: G8
+G8 is a hit
+
+Player 1's turn
+Player 1 guesses: F5 is a hit
+
+AI's turn
+AI guesses: G7
+G7 is a miss
+
+Player 1's turn
+Player 1 guesses: F3 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a hit
+
+Player 1's turn
+Player 1 guesses: E2 is a miss
+
+AI's turn
+AI guesses: E8
+E8 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 is a miss
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 has already been shot
+I9 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a hit
+
+Player 1's turn
+Player 1 guesses: F1 is a hit
+
+AI's turn
+AI guesses: G10
+G10 is a hit
+
+Player 1's turn
+Player 1 guesses: A10 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a miss
+
+AI's turn
+AI guesses: C9
+C9 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a miss
+
+AI's turn
+AI guesses: I6
+I6 is a miss
+
+Player 1's turn
+Player 1 guesses: I3 is a miss
+
+AI's turn
+AI guesses: J5
+J5 is a miss
+
+Player 1's turn
+Player 1 guesses: C6 has already been shot
+G9 is a miss
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 is a miss
+
+AI's turn
+AI guesses: F2
+F2 is a hit
+
+Player 1's turn
+Player 1 guesses: C8 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a hit
+
+Player 1's turn
+Player 1 guesses: D6 is a miss
+
+AI's turn
+AI guesses: H2
+H2 is a miss
+
+Player 1's turn
+Player 1 guesses: D4 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: F3 has already been shot
+I10 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a hit
+
+Player 1's turn
+Player 1 guesses: F9 is a miss
+
+AI's turn
+AI guesses: B8
+B8 is a miss
+
+Player 1's turn
+Player 1 guesses: D6 has already been shot
+H2 is a miss
+
+AI's turn
+AI guesses: D10
+D10 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 has already been shot
+J6 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a miss
+
+Player 1's turn
+Player 1 guesses: A7 is a miss
+
+AI's turn
+AI guesses: A3
+A3 is a miss
+
+Player 1's turn
+Player 1 guesses: J2 is a miss
+
+AI's turn
+AI guesses: C1
+C1 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 has already been shot
+I10 has already been shot
+F5 has already been shot
+D3 has already been shot
+F5 has already been shot
+E10 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: G4 is a miss
+
+AI's turn
+AI guesses: C6
+C6 is a miss
+
+Player 1's turn
+Player 1 guesses: D3 has already been shot
+B2 is a hit
+
+AI's turn
+AI guesses: H5
+H5 is a miss
+
+Player 1's turn
+Player 1 guesses: H1 is a miss
+
+AI's turn
+AI guesses: I9
+I9 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 is a miss
+
+AI's turn
+AI guesses: J1
+J1 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 has already been shot
+G3 has already been shot
+E3 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a miss
+
+Player 1's turn
+Player 1 guesses: B1 is a hit
+
+AI's turn
+AI guesses: A9
+A9 is a miss
+
+Player 1's turn
+Player 1 guesses: F9 has already been shot
+I2 is a miss
+
+AI's turn
+AI guesses: J4
+J4 is a miss
+
+Player 1's turn
+Player 1 guesses: D8 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 is a miss
+
+AI's turn
+AI guesses: I7
+I7 is a miss
+
+Player 1's turn
+Player 1 guesses: G10 has already been shot
+F7 has already been shot
+C1 is a hit
+
+AI's turn
+AI guesses: E4
+E4 is a miss
+
+Player 1's turn
+Player 1 guesses: H5 is a miss
+
+AI's turn
+AI guesses: B10
+B10 is a miss
+
+Player 1's turn
+Player 1 guesses: G8 is a miss
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: I2 has already been shot
+I8 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: I10
+I10 is a miss
+
+Player 1's turn
+Player 1 guesses: G2 is a miss
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: D5 is a hit
+
+AI's turn
+AI guesses: D2
+D2 is a miss
+
+Player 1's turn
+Player 1 guesses: J6 has already been shot
+F2 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a miss
+
+AI's turn
+AI guesses: I4
+I4 is a miss
+
+Player 1's turn
+Player 1 guesses: I1 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a miss
+
+Player 1's turn
+Player 1 guesses: A9 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a miss
+
+Player 1's turn
+Player 1 guesses: J9 is a miss
+
+AI's turn
+AI guesses: A4
+A4 is a miss
+
+Player 1's turn
+Player 1 guesses: I7 is a miss
+
+AI's turn
+AI guesses: F7
+F7 is a hit
+
+Player 1's turn
+Player 1 guesses: H6 is a miss
+
+AI's turn
+AI guesses: F6
+F6 is a miss
+
+Player 1's turn
+Player 1 guesses: H5 has already been shot
+H2 has already been shot
+C2 is a miss
+
+AI's turn
+AI guesses: E7
+E7 is a miss
+
+Player 1's turn
+Player 1 guesses: E10 has already been shot
+H1 has already been shot
+E1 is a hit
+
+AI's turn
+
+Player 1's turn
+Player 1 guesses: D9 is a miss
+
+AI's turn
+AI guesses: E6
+E6 is a miss
+
+Player 1's turn
+Player 1 guesses: B1 is a miss
+
+AI's turn
+AI guesses: F5
+F5 is a miss
+
+Player 1's turn
+Player 1 guesses: G6 is a miss
+
+AI's turn
+AI guesses: D4
+D4 is a miss
+
+Player 1's turn
+Player 1 guesses: D3 is a miss
+
+AI's turn
+AI guesses: G7
+G7 is a hit
+
+Player 1's turn
+Player 1 guesses: F10 is a miss
+
+AI's turn
+AI guesses: H7
+H7 is a hit
+
+Player 1's turn
+Player 1 guesses: D7 is a miss
+
+AI's turn
+AI guesses: I7
+I7 is a hit
+
+Player 1's turn
+Player 1 guesses: H7 is a miss
+
+AI's turn
+AI guesses: C7
+C7 is a miss
+
+Player 1's turn
+Player 1 guesses: I3 is a miss
+
+AI's turn
+AI guesses: D8
+D8 is a hit
+
+Player 1's turn
+Player 1 guesses: I9 is a miss
+
+AI's turn
+AI guesses: D7
+D7 is a hit
+
+Player 1's turn
+Player 1 guesses: H7 has already been shot
+G6 has already been shot
+H10 is a miss
+
+AI's turn
+AI guesses: D6
+D6 is a hit
+
+Player 1's turn
+Player 1 guesses: D4 is a miss
+
+AI's turn
+AI guesses: D5
+D5 is a hit
+
+Player 1's turn
+Player 1 guesses: I8 is a hit
+
+AI's turn
+AI guesses: G3
+G3 is a miss
+
+Player 1's turn
+Player 1 guesses: E8 is a miss
+
+AI's turn
+AI guesses: C3
+C3 is a miss
+
+Player 1's turn
+Player 1 guesses: A8 is a miss
+
+AI's turn
+AI guesses: F9
+F9 is a hit
+
+Player 1's turn
+Player 1 guesses: I10 is a miss
+
+AI's turn
+AI guesses: F8
+F8 is a miss
+
+Player 1's turn
+Player 1 guesses: I8 has already been shot
+F1 is a hit
+
+AI's turn
+AI guesses: F10
+F10 is a hit
+
+Player 1's turn
+Player 1 guesses: H5 is a miss
+
+AI's turn
+AI guesses: E9
+E9 is a miss
+
+Player 1's turn
+Player 1 guesses: D8 is a miss
+
+AI's turn
+AI guesses: G9
+G9 is a hit
+
+Player 1's turn
+Player 1 guesses: H9 is a miss
+
+AI's turn
+AI guesses: H9
+H9 is a hit
+
+Player 1's turn
+Player 1 guesses: H6 is a miss
+
+AI's turn
+AI guesses: H4
+H4 is a miss
+
+Player 1's turn
+Player 1 guesses: I6 is a miss
+
+AI's turn
+AI guesses: E2
+E2 is a miss
+
+Player 1's turn
+Player 1 guesses: E9 is a miss
+
+AI's turn
+AI guesses: J6
+J6 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 is a miss
+
+AI's turn
+AI guesses: F1
+F1 is a miss
+
+Player 1's turn
+Player 1 guesses: F2 is a miss
+
+AI's turn
+AI guesses: B5
+B5 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 is a miss
+
+AI's turn
+AI guesses: A6
+A6 is a miss
+
+Player 1's turn
+Player 1 guesses: B10 is a miss
+
+AI's turn
+AI guesses: I2
+I2 is a miss
+
+Player 1's turn
+Player 1 guesses: G5 has already been shot
+J3 is a miss
+
+AI's turn
+AI guesses: B9
+B9 is a miss
+
+Player 1's turn
+Player 1 guesses: C3 is a miss
+
+AI's turn
+AI guesses: B2
+B2 is a hit
+
+Player 1's turn
+Player 1 guesses: F3 is a miss
+
+AI's turn
+AI guesses: B1
+B1 is a miss
+
+Player 1's turn
+Player 1 guesses: E4 is a hit
+
+AI's turn
+AI guesses: A2
+A2 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 is a miss
+
+AI's turn
+AI guesses: C2
+C2 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 is a miss
+
+AI's turn
+AI guesses: B3
+B3 is a hit
+
+Player 1's turn
+Player 1 guesses: G1 is a hit
+
+AI's turn
+AI guesses: J3
+J3 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 has already been shot
+J1 is a miss
+
+AI's turn
+AI guesses: C10
+C10 is a miss
+
+Player 1's turn
+Player 1 guesses: J3 has already been shot
+C6 is a miss
+
+AI's turn
+AI guesses: I5
+I5 is a miss
+
+Player 1's turn
+Player 1 guesses: D9 has already been shot
+C4 is a miss
+
+AI's turn
+AI guesses: J8
+J8 is a miss
+
+Player 1's turn
+Player 1 guesses: B4 is a miss
+
+AI's turn
+AI guesses: A8
+A8 is a miss
+
+Player 1's turn
+Player 1 guesses: E1 is a hit
+
+AI's turn
+AI guesses: H1
+H1 is a miss
+
+Player 1's turn
+Player 1 guesses: F10 has already been shot
+B5 is a miss
+
+AI's turn
+AI guesses: I10
+I10 is a miss
+
+Player 1's turn
+Player 1 guesses: I8 has already been shot
+D6 is a miss
+
+AI's turn
+AI guesses: G6
+G6 is a miss
+
+Player 1's turn
+Player 1 guesses: C5 is a miss
+
+AI's turn
+AI guesses: E4
+E4 is a miss
+
+Player 1's turn
+Player 1 guesses: A2 is a miss
+
+AI's turn
+AI guesses: D1
+D1 is a miss
+
+Player 1's turn
+Player 1 guesses: E7 has already been shot
+B10 has already been shot
+B6 has already been shot
+E3 is a hit
+
+AI's turn
+AI guesses: F3
+F3 is a miss
+
+Player 1's turn
+Player 1 guesses: D7 has already been shot
+A1 is a miss
+
+AI's turn
+AI guesses: A4
+A4 is a miss
+
+Player 1's turn
+Player 1 guesses: E3 has already been shot
+G8 is a miss
+
+AI's turn
+AI guesses: B7
+B7 is a miss
+
+Player 1's turn
+Player 1 guesses: G9 is a miss
+
+AI's turn
+AI guesses: G2
+G2 is a miss
+
+Player 1's turn
+Player 1 guesses: J3 has already been shot
+H2 is a miss
+
+AI's turn
+AI guesses: C5
+C5 is a miss
+
+Player 1's turn
+Player 1 guesses: C7 has already been shot
+B7 is a miss
+
+AI's turn
+AI guesses: H8
+H8 is a miss
+
+Player 1's turn
+Player 1 guesses: B6 has already been shot
+J8 is a hit
+
+AI's turn
+AI guesses: D10
+D10 is a hit
+
+Player 1's turn
+Player 1 guesses: F2 has already been shot
+H8 is a miss
+
+AI's turn
+AI guesses: E10
+E10 is a hit
+
+Player 1's turn
+Player 1 guesses: B4 has already been shot
+B1 has already been shot
+B9 is a miss
+
+AI's turn
+AI guesses: D9
+D9 is a miss
+
+Player 1's turn
+Player 1 guesses: J8 has already been shot
+B2 is a miss
+
+AI's turn

@@ -1,0 +1,6 @@
+Welcome to Battleship
+(c) Seth Hammell
+
+1. Play
+2. Help
+3. Quit
